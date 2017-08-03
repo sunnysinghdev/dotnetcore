@@ -1,0 +1,1 @@
+dotnet add package MySql.Data // to add package
